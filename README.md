@@ -10,6 +10,7 @@
 
 ### My Projects
 
+* https://moisesdreckmann.github.io/project-parallax-chocolateria/
 * https://moisesdreckmann.github.io/project-logincoffe/
 * https://moisesdreckmann.github.io/project-tecnoblog/
 
