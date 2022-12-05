@@ -2,7 +2,7 @@
 
 * I live in Brazil;
 * I'm looking to improve my skills every day;
-* I like to use **BEM** architecture in my projects.
+* I like to learning JS;
 
 ### Contact
 
