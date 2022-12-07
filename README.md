@@ -6,7 +6,7 @@
 
 ### Contact
 
-* Send a message at <a href="https://www.linkedin.com/in/mois%C3%A9s-d-245756219/" target="_blank">Linkedin</a>.
+* Send a message at <a href="[https://www.linkedin.com/in/mois%C3%A9s-d-245756219/](https://www.linkedin.com/in/mois%C3%A9s-dreckmann-245756219/)" target="_blank">Linkedin</a>.
 
 ### My Projects
 
