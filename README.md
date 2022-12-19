@@ -10,6 +10,7 @@
 
 ### My Projects
 
+* https://moisesdreckmann.github.io/projetoCalculadorasimples/
 * https://moisesdreckmann.github.io/formulario-js1/
 * https://moisesdreckmann.github.io/project-spacezone/
 * https://moisesdreckmann.github.io/project-apple/
