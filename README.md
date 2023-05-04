@@ -20,6 +20,10 @@
 * https://moisesdreckmann.github.io/project-apple/
 * https://moisesdreckmann.github.io/project-parallax-chocolateria/
 
+### Project in PDO
+
+* https://github.com/moisesdreckmann/Americanas
+
 ### My Skills
 
 <div>
