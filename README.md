@@ -12,13 +12,13 @@
 
 * Send a message at <a href="https://www.linkedin.com/in/moisés-dreckmann-245756219/" target="_blank">Linkedin</a>.
 
-### My Projects
+### My Main Projects
 
-* https://moisesdreckmann.github.io/projetoCalculadorasimples/
-* https://moisesdreckmann.github.io/formulario-js1/
 * https://moisesdreckmann.github.io/project-spacezone/
-* https://moisesdreckmann.github.io/project-apple/
+* https://moisesdreckmann.github.io/formulario-js1/
+* https://moisesdreckmann.github.io/projetoCalculadorasimples/
 * https://moisesdreckmann.github.io/project-parallax-chocolateria/
+* https://moisesdreckmann.github.io/project-apple/
 
 ### Project in PDO
 
