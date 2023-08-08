@@ -5,7 +5,7 @@
 * HTML5/CSS3;
 * PHP / PDO;
 * MySQL / PostgreSQL (Workbench / PhpAdmin);
-* Object-oriented programming;
+* Object-oriented programming (PHP/JAVA);
 * Javascript (DOM, Asynchronous Ajax requests, Fetch API, Google API, JSON);
 
 ### Contact
