@@ -24,7 +24,7 @@
 
 * https://github.com/moisesdreckmann/Americanas
 
-### Project in Data structures
+### Project in Data Structures
 
 * https://github.com/moisesdreckmann/projectCpp
 
