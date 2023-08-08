@@ -12,7 +12,7 @@
 
 * Send a message at <a href="https://www.linkedin.com/in/moisés-dreckmann-245756219/" target="_blank">Linkedin</a>.
 
-### My Main Projects
+### Projects in HTML5/CSS3/JS
 
 * https://moisesdreckmann.github.io/project-spacezone/
 * https://moisesdreckmann.github.io/formulario-js1/
