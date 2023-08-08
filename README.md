@@ -20,7 +20,7 @@
 * https://moisesdreckmann.github.io/project-parallax-chocolateria/
 * https://moisesdreckmann.github.io/project-apple/
 
-### Project in PDO
+### Project in PDO/JS/Ajax/GoogleAPI
 
 * https://github.com/moisesdreckmann/Americanas
 
