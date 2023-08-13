@@ -3,6 +3,7 @@
 * Programming logic in C;
 * Data structures;
 * HTML5/CSS3;
+* Bootstrap
 * PHP / PDO;
 * MySQL / PostgreSQL (Workbench / PhpAdmin);
 * Object-oriented programming (PHP/JAVA);
