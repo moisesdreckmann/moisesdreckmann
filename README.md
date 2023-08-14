@@ -4,10 +4,13 @@
 * Data structures;
 * HTML5/CSS3;
 * Bootstrap
+* Javascript (DOM, Asynchronous Ajax requests, Fetch API, Google API, JSON);
+* GIT
+* Github
 * PHP / PDO;
 * MySQL / PostgreSQL (Workbench / PhpAdmin);
 * Object-oriented programming (PHP/JAVA);
-* Javascript (DOM, Asynchronous Ajax requests, Fetch API, Google API, JSON);
+* SCRUM
 
 ### Contact
 
