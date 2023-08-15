@@ -16,11 +16,11 @@
 
 * Send a message at <a href="https://www.linkedin.com/in/moisés-dreckmann-245756219/" target="_blank">Linkedin</a>.
 
-### Animations HTML5/CSS3/JS
+### ANIMATIONS (HTML5/CSS3/JS)
 * 00: https://moisesdreckmann.github.io/project-apple/
 * 01: https://moisesdreckmann.github.io/animation01/
 
-### React
+### REACT
 
 ### HTML5/CSS3/JS
 
@@ -29,11 +29,11 @@
 * https://moisesdreckmann.github.io/projetoCalculadorasimples/
 * https://moisesdreckmann.github.io/project-spacezone/
 
-### PDO/JS/Ajax/GoogleAPI
+### PDO/JS/AJAX/GOOGLEAPI
 
 * https://github.com/moisesdreckmann/Americanas
 
-### Data Structures
+### DATA STRUCTURES
 
 * https://github.com/moisesdreckmann/projectCpp
 
