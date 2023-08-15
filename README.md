@@ -4,7 +4,7 @@
 * Data structures;
 * HTML5/CSS3;
 * Bootstrap
-* Javascript (DOM, Asynchronous Ajax requests, Fetch API, Google API, JSON);
+* Javascript (DOM, Asynchronous requests, Google API, JSON);
 * GIT
 * Github
 * PHP / PDO;
