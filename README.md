@@ -1,4 +1,4 @@
-### <img src="https://icongr.am/simple/bbciplayer.svg?size=128&color=#ffffff&colored=false" width="10px" heigh="10px"/> Moisés Dreckmann
+### <img src="https://icongr.am/simple/bbciplayer.svg?size=128&color=ffffff&colored=false" width="10px" heigh="10px"/> Moisés Dreckmann
 
 Full-stack developer with php on the backend. My first contact with ''Hello Word''   
 was with C++. Since then I have learned many other technologies. I have solid knowledge  
@@ -18,7 +18,7 @@ of my specialties:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height="50px" />    
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+<img src="https://img.shields.io/badge/Data%20Structure"/>
 </div>
 
 ### Contact
