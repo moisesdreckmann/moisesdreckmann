@@ -1,4 +1,4 @@
-### <img src="https://icongr.am/simple/bbciplayer.svg?size=128&color=ffffff&colored=false" width="10px" heigh="10px"/> Moisés Dreckmann
+### <img src="https://icongr.am/simple/bbciplayer.svg?size=128&color=ffffff&colored=false" width="12px" heigh="12px"/> Moisés Dreckmann
 
 Full-stack developer with php on the backend. My first contact with ''Hello Word''   
 was with C++. Since then I have learned many other technologies. I have solid knowledge  
@@ -9,7 +9,7 @@ of my specialties:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px" height="50px"/>
-<img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" width="50px" height="50px">/>
+<img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" height="50px"/>
@@ -23,7 +23,7 @@ of my specialties:
 
 ### Contact
 
-* Send a message at <a href="https://www.linkedin.com/in/moisés-dreckmann-245756219/" target="_blank">Linkedin</a>.
+* Send a message at <a href="https://www.linkedin.com/in/moisés-dreckmann-245756219/" target="_blank"><img src="https://devicon-website.vercel.app/api/linkedin/original-wordmark.svg"></img></a> <a href="mailto:dreckmannmoises@gmail.com" target="_blank"><img src="https://iconscout.com/icons/gmail" target="_blank">/></a>
 
 ### ANIMATIONS (HTML5/CSS3/JS)
 
