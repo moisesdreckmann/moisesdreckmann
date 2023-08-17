@@ -20,15 +20,13 @@ of my specialties:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height="50px" />  
 </div>
 
-### Contact:<div style="margin-top: 5px;">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mois%C3%A9s-dreckmann-245756219/)
-</div>
+### Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mois%C3%A9s-dreckmann-245756219/)
 
 
-<a href="https://www.linkedin.com/in/moisés-dreckmann-245756219/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" height="30px"/></a>
+### Projects:
 
-### Projects
-
+<div style="background-color: #f0f0f0;">
 #### ANIMATIONS (HTML5/CSS3/JS)
 * 00: https://moisesdreckmann.github.io/project-apple/
 * 01: https://moisesdreckmann.github.io/animation01/
@@ -47,4 +45,4 @@ of my specialties:
 
 #### POO JAVA 
 * https://github.com/moisesdreckmann/java
-
+</div>
