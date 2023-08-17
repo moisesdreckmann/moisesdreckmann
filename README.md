@@ -1,6 +1,6 @@
 ### <img src="https://icongr.am/simple/bbciplayer.svg?size=128&color=ffffff&colored=false" width="12px" heigh="12px"/> Moisés Dreckmann
 
-Full-stack developer with php on the backend. My first contact with ''Hello Word''   <img src="https://devicon-website.vercel.app/api/coffeescript/original.svg?color=%23FFFFFF" width="100px" height="100px"/>
+Full-stack developer with php on the backend. My first contact with ''Hello Word''  
 was with C++. Since then I have learned many other technologies. I have solid knowledge  
 in Data Structure and I have already developed with Agile Methodologies. These are some  
 of my specialties:
