@@ -1,4 +1,8 @@
-### Hi, I’m Anark... These are some of my specialties:
+### Moisés Dreckmann
+
+Full-stack developer with php on the backend. My first contact with ''Hello Word''  <img src="https://www.pngkit.com/bigpic/u2w7o0w7e6i1y3a9/" width="200px" height="200px"/>
+was with C++. Since then I have learned many other technologies. These are some of 
+my specialties:
 
 * Programming logic in C;
 * Data structures;
@@ -44,7 +48,8 @@
 ### My Skills
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" height="40px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40px" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40px" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px"/>
