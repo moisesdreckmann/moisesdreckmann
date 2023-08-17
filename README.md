@@ -21,15 +21,20 @@ of my specialties:
 </div>
 
 ### Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mois%C3%A9s-dreckmann-245756219/)
+<div style="background-color: #f0f0f0; padding: 10px;">
+  <a href="https://www.linkedin.com/in/mois%C3%A9s-dreckmann-245756219/" target="_blank" style="color: black;">
+    ![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)
+  </a>
+</div>
+
 
 
 ### Projects:
 
-<div style="background-color: #f0f0f0;">
 #### ANIMATIONS (HTML5/CSS3/JS)
-* 00: https://moisesdreckmann.github.io/project-apple/
-* 01: https://moisesdreckmann.github.io/animation01/
+* https://moisesdreckmann.github.io/animation01/
+* https://moisesdreckmann.github.io/project-apple/
+
 
 #### HTML5/CSS3/JS
 * https://moisesdreckmann.github.io/project-parallax-chocolateria/
@@ -45,4 +50,3 @@ of my specialties:
 
 #### POO JAVA 
 * https://github.com/moisesdreckmann/java
-</div>
