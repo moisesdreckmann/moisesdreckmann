@@ -1,4 +1,4 @@
-## <img src="https://icongr.am/simple/bbciplayer.svg?size=128&color=ffffff&colored=false" width="12px" heigh="12px"/> Moisés Dreckmann
+### <img src="https://icongr.am/simple/bbciplayer.svg?size=128&color=ffffff&colored=false" width="12px" heigh="12px"/> Moisés Dreckmann
 
 Full-stack developer with php on the backend. My first contact with ''Hello Word''   
 was with C++. Since then I have learned many other technologies. I have solid knowledge  
@@ -20,27 +20,23 @@ of my specialties:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height="50px" />  
 </div>
 
-## Contact <a href="https://www.linkedin.com/in/moisés-dreckmann-245756219/" target="_blank">   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" height="30px"/></a>
+### Contact <a href="https://www.linkedin.com/in/moisés-dreckmann-245756219/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" height="30px"/></a>
 
-## Projects
+### Projects
 
-### ANIMATIONS (HTML5/CSS3/JS)
+#### ANIMATIONS (HTML5/CSS3/JS)
 * 00: https://moisesdreckmann.github.io/project-apple/
 * 01: https://moisesdreckmann.github.io/animation01/
 
-### HTML5/CSS3/JS
+#### HTML5/CSS3/JS
 * https://moisesdreckmann.github.io/project-parallax-chocolateria/
 * https://moisesdreckmann.github.io/formulario-js1/
 * https://moisesdreckmann.github.io/projetoCalculadorasimples/
 * https://moisesdreckmann.github.io/project-spacezone/
 
-### PDO/JS/AJAX/GOOGLEAPI
-* https://github.com/moisesdreckmann/Americanas
+#### PDO/JS/AJAX/GOOGLEAPI * https://github.com/moisesdreckmann/Americanas
 
-### DATA STRUCTURES
-* https://github.com/moisesdreckmann/projectCpp
+#### DATA STRUCTURES * https://github.com/moisesdreckmann/projectCpp
 
-### POO JAVA 
-* https://github.com/moisesdreckmann/java
+#### POO JAVA * https://github.com/moisesdreckmann/java
 
