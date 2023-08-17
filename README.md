@@ -20,7 +20,7 @@ of my specialties:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height="50px" />  
 </div>
 
-### Contact <a href="https://www.linkedin.com/in/moisés-dreckmann-245756219/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" height="30px"/></a>
+### Contact: <a href="https://www.linkedin.com/in/moisés-dreckmann-245756219/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" height="30px"/></a>
 
 ### Projects
 
@@ -34,9 +34,12 @@ of my specialties:
 * https://moisesdreckmann.github.io/projetoCalculadorasimples/
 * https://moisesdreckmann.github.io/project-spacezone/
 
-#### PDO/JS/AJAX/GOOGLEAPI * https://github.com/moisesdreckmann/Americanas
+#### PDO/JS/AJAX/GOOGLEAPI
+* https://github.com/moisesdreckmann/Americanas
 
-#### DATA STRUCTURES * https://github.com/moisesdreckmann/projectCpp
+#### DATA STRUCTURES 
+* https://github.com/moisesdreckmann/projectCpp
 
-#### POO JAVA * https://github.com/moisesdreckmann/java
+#### POO JAVA 
+* https://github.com/moisesdreckmann/java
 
