@@ -17,36 +17,31 @@ of my specialties:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50px" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height="50px" />    
-<img src="https://img.shields.io/badge/Data%20Structure"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height="50px" />  
 </div>
 
 ### Contact
 
-* Send a message at <a href="https://www.linkedin.com/in/moisés-dreckmann-245756219/" target="_blank"><img src="https://devicon-website.vercel.app/api/linkedin/original-wordmark.svg"></img></a> <a href="mailto:dreckmannmoises@gmail.com" target="_blank"><img src="https://iconscout.com/icons/gmail" target="_blank">/></a>
+* Send a message at <a href="https://www.linkedin.com/in/moisés-dreckmann-245756219/" target="_blank"><img src="https://devicon-website.vercel.app/api/linkedin/original-wordmark.svg" width="50px" height="50px"></img></a>
 
-### ANIMATIONS (HTML5/CSS3/JS)
+### Projects
 
+ANIMATIONS (HTML5/CSS3/JS)
 * 00: https://moisesdreckmann.github.io/project-apple/
 * 01: https://moisesdreckmann.github.io/animation01/
 
-
-### HTML5/CSS3/JS
-
+HTML5/CSS3/JS
 * https://moisesdreckmann.github.io/project-parallax-chocolateria/
 * https://moisesdreckmann.github.io/formulario-js1/
 * https://moisesdreckmann.github.io/projetoCalculadorasimples/
 * https://moisesdreckmann.github.io/project-spacezone/
 
-### PDO/JS/AJAX/GOOGLEAPI
-
+PDO/JS/AJAX/GOOGLEAPI
 * https://github.com/moisesdreckmann/Americanas
 
-### DATA STRUCTURES
-
+DATA STRUCTURES
 * https://github.com/moisesdreckmann/projectCpp
 
-### POO JAVA 
-
+POO JAVA 
 * https://github.com/moisesdreckmann/java
 
