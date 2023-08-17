@@ -1,7 +1,7 @@
 ### Moisés Dreckmann
 
-Full-stack developer with php on the backend. My first contact with ''Hello Word''  <img src="https://www.pngkit.com/bigpic/u2w7o0w7e6i1y3a9/" width="200px" height="200px"/>
-was with C++. Since then I have learned many other technologies. These are some of 
+Full-stack developer with php on the backend. My first contact with ''Hello Word'' <br>  
+was with C++. Since then I have learned many other technologies. These are some of  <br> ![Texto Alternativo](https://www.pngkit.com/bigpic/u2w7o0w7e6i1y3a9/)
 my specialties:
 
 * Programming logic in C;
