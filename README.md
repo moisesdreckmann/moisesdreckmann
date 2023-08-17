@@ -20,9 +20,7 @@ of my specialties:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height="50px" />  
 </div>
 
-### Contact
-
-* Send a message at <a href="https://www.linkedin.com/in/moisés-dreckmann-245756219/" target="_blank"><img src="https://devicon-website.vercel.app/api/linkedin/original-wordmark.svg" width="50px" height="50px"></img></a>
+<div>## Contact <a href="https://www.linkedin.com/in/moisés-dreckmann-245756219/" target="_blank"><img src="<img src="https://devicon-website.vercel.app/api/linkedin/original.svg" width="50px" height="50px/>"</a></div>
 
 ### Projects
 
