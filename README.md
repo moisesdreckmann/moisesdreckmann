@@ -33,7 +33,7 @@ of my specialties:
 * https://github.com/moisesdreckmann/Americanas
 
 #### ANIMATIONS (HTML5/CSS3/JS)
-* https://github.com/moisesdreckmann/animationsCollection/tree/master
+* https://github.com/moisesdreckmann/animationsCollection/tree/main
 
 #### HTML5/CSS3/JS
 * https://moisesdreckmann.github.io/project-parallax-chocolateria/
