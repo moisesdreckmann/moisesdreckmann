@@ -36,10 +36,7 @@ of my specialties:
 * https://github.com/moisesdreckmann/animationsCollection/tree/main
 
 #### HTML5/CSS3/JS
-* https://moisesdreckmann.github.io/project-parallax-chocolateria/
-* https://moisesdreckmann.github.io/formulario-js1/
-* https://moisesdreckmann.github.io/projetoCalculadorasimples/
-* https://moisesdreckmann.github.io/project-spacezone/
+* https://github.com/moisesdreckmann/css-tricks
 
 #### DATA STRUCTURES 
 * https://github.com/moisesdreckmann/projectCpp
