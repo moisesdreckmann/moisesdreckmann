@@ -30,7 +30,7 @@ of my specialties:
 
 ### Projects:
 
-#### PDO/JS/AJAX/GOOGLEAPI
+#### PDO/JS/FETCH/GOOGLEAPI
 * https://github.com/moisesdreckmann/Americanas
 
 #### ANIMATIONS (HTML5/CSS3/JS)
