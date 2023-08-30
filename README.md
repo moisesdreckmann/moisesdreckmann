@@ -20,7 +20,9 @@ of my specialties:
 </div>
 
 </br>
-Others Languages I Know:  
+<div>
+  Others Languages I Know:  
+</div>
 </br>
 
 <div>
