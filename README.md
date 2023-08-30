@@ -16,12 +16,16 @@ of my specialties:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" height="50px"/>
-<img src="https://devicon-website.vercel.app/api/android/original.svg" width="50px" height="50px">
-<img src="https://devicon-website.vercel.app/api/kotlin/original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50px" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height="50px" />  
+
 </div>
 
+Others Languages I Know:
+<div>
+  <img src="https://devicon-website.vercel.app/api/android/original.svg" width="50px" height="50px">
+  <img src="https://devicon-website.vercel.app/api/kotlin/original.svg" width="50px" height="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" height="50px" />  
+</div>
 
 ### Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mois%C3%A9s-dreckmann-245756219/)
