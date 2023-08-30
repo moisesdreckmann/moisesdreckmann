@@ -19,7 +19,7 @@ of my specialties:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50px" height="50px"/>
 
 </div>
-
+</br>
 Others Languages I Know:
 <div>
   <img src="https://devicon-website.vercel.app/api/android/original.svg" width="50px" height="50px">
