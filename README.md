@@ -34,31 +34,12 @@ of my specialties:
 ### Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mois%C3%A9s-dreckmann-245756219/)
 
-
-
-### Projects:
-
-#### PDO/JS/FETCH/GOOGLEAPI
-* https://github.com/moisesdreckmann/Americanas
-
-#### ANIMATIONS (HTML5/CSS3/JS)
-* https://github.com/moisesdreckmann/animationsCollection/tree/main
-
-#### HTML5/CSS3/JS
-* https://github.com/moisesdreckmann/css-tricks
-
-#### DATA STRUCTURES 
-* https://github.com/moisesdreckmann/projectCpp
-
-#### POO JAVA 
-* https://github.com/moisesdreckmann/java
-
 | Project | Technologies | Link |
 | ------- | ------------ | ---- |
-| E-commerce com PHP | PHP, JS, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/Americanas) |
+| E-commerce Réplica das Lojas Americanas com PHP | PHP, JS, JSON, AJAX, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/Americanas) |
 | Collection de Animations | JS, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/animationsCollection/tree/main) |
 | Pages Desenvolvidas em HTML/CSS | JavaScript, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/css-tricks) |
 | Projeto de Loja com Estrutura de Dados | C, C++ | [GitHub](https://github.com/moisesdreckmann/projectCpp) |
-| Aulas de Java pelo IFSUL + Desafios DIO | Java, SpringBoot | [GitHub](https://github.com/moisesdreckmann/java) |
+| Aulas de Java pelo IFSUL + Desafios de SpringBoot Plataforma DIO/Cursos | Java, SpringBoot | [GitHub](https://github.com/moisesdreckmann/java) |
 
 
