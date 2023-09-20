@@ -53,14 +53,11 @@ of my specialties:
 #### POO JAVA 
 * https://github.com/moisesdreckmann/java
 
-| Project | Technologies | Commitment | Contents | Link |
-| ------- | ------------ | ---------- | -------- | ---- |
-| JavaScript Form Validation | JavaScript, HTML, CSS | High | Implementation of validations for registration form fields for a checking account | [GitHub](https://github.com/moisesdreckmann/Americanas) |
-| Curiosities about the Android Operating System | HTML, CSS | High | Website with interesting facts and information about the Android operating system | [GitHub](https://github.com/moisesdreckmann/animationsCollection/tree/main) |
-| Interactive Travel Backpack | JavaScript, CSS | Medium | Interactive application simulating a travel backpack, allowing adding and removing items | [GitHub](https://github.com/moisesdreckmann/css-tricks) |
-| Modern Cordel | HTML, CSS | Medium | Project that presents and celebrates the cordel literature by poet Milton Duarte | [GitHub](https://github.com/moisesdreckmann/projectCpp) |
-| Number Guessing Game with Voice Recognition | JavaScript, HTML, CSS | Medium | Interactive game where players guess a number using voice recognition | [GitHub](https://github.com/moisesdreckmann/java) |
-| Typing Effect | HTML, CSS | Low | Creation of a visual effect of text being typed in real time | [GitHub](https://github.com/moisesdreckmann/java) |
-| Login Form | HTML, CSS | Low | Simple login form with fields for username, password, and "Login" button | [GitHub](https://github.com/moisesdreckmann/java) |
-| Replica of the Netflix Logo | HTML, CSS | Low | Replica of the iconic Netflix logo using HTML and CSS | [GitHub](https://github.com/moisesdreckmann/java) |
+| Project | Technologies | Link |
+| ------- | ------------ | -------- | ---- |
+| E-commerce com PHP | PHP, JS , HTML, CSS | [GitHub](https://github.com/moisesdreckmann/Americanas) |
+| Collection de Animations | JS, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/animationsCollection/tree/main) |
+| Pages Desenvolvidas em HTML/CSS | JavaScript, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/css-tricks) |
+| Projeto de Loja com Estrutura de Dados | C, C++ | [GitHub](https://github.com/moisesdreckmann/projectCpp) |
+| Aulas de Java pelo IFSUL + Desafios DIO | Java, SpringBoot | [GitHub](https://github.com/moisesdreckmann/java) |
 
