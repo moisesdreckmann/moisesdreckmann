@@ -54,10 +54,11 @@ of my specialties:
 * https://github.com/moisesdreckmann/java
 
 | Project | Technologies | Link |
-| ------- | ------------ | -------- | ---- |
-| E-commerce com PHP | PHP, JS , HTML, CSS | [GitHub](https://github.com/moisesdreckmann/Americanas) |
+| ------- | ------------ | ---- |
+| E-commerce com PHP | PHP, JS, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/Americanas) |
 | Collection de Animations | JS, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/animationsCollection/tree/main) |
 | Pages Desenvolvidas em HTML/CSS | JavaScript, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/css-tricks) |
 | Projeto de Loja com Estrutura de Dados | C, C++ | [GitHub](https://github.com/moisesdreckmann/projectCpp) |
 | Aulas de Java pelo IFSUL + Desafios DIO | Java, SpringBoot | [GitHub](https://github.com/moisesdreckmann/java) |
+
 
