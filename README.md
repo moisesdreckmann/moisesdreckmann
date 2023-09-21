@@ -40,6 +40,6 @@ of my specialties:
 | Collection de Animations | JS, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/animationsCollection/tree/main) |
 | Pages Desenvolvidas em HTML/CSS | JavaScript, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/css-tricks) |
 | Projeto de Loja com Estrutura de Dados | C, C++ | [GitHub](https://github.com/moisesdreckmann/projectCpp) |
-| Aulas de Java pelo IFSUL + Desafios de SpringBoot Plataforma DIO/Cursos | Java, SpringBoot | [GitHub](https://github.com/moisesdreckmann/java) |
+| Aulas de Java pela faculdade IFSUL + Desafios de SpringBoot Plataforma DIO/Cursos | Java, SpringBoot | [GitHub](https://github.com/moisesdreckmann/java) |
 
 
