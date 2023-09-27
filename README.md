@@ -36,7 +36,7 @@ of my specialties:
 
 | Project | Technologies | Link |
 | ------- | ------------ | ---- |
-| E-commerce Réplica das Lojas Americanas com PHP | PHP, JS, JSON, AJAX, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/Americanas) |
+| E-commerce Réplica das Lojas Americanas com PHP | PHP, JS, JSON, AJAX, HTML, CSS, GoogleAPI | [GitHub](https://github.com/moisesdreckmann/Americanas) |
 | Collection de Animations | JS, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/animationsCollection/tree/main) |
 | Pages Desenvolvidas em HTML/CSS | JavaScript, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/css-tricks) |
 | Projeto de Loja com Estrutura de Dados | C, C++ | [GitHub](https://github.com/moisesdreckmann/projectCpp) |
