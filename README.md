@@ -36,6 +36,7 @@ of my specialties:
 
 | Project | Technologies | Link |
 | ------- | ------------ | ---- |
+| Mini-Jogos desenvolvidos em JS pelo IFOOD TECH | HTML, CSS, JS, VITE | [GitHub](https://moisesdreckmann.github.io/jogosDio/) |
 | E-commerce Réplica das Lojas Americanas com PHP | PHP, JS, JSON, AJAX, HTML, CSS, GoogleAPI | [GitHub](https://github.com/moisesdreckmann/Americanas) |
 | Collection de Animations | JS, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/animationsCollection/tree/main) |
 | Pages Desenvolvidas em HTML/CSS | JavaScript, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/css-tricks) |
