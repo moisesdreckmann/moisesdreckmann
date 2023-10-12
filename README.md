@@ -36,7 +36,7 @@ of my specialties:
 
 | Project | Technologies | Link |
 | ------- | ------------ | ---- |
-| Jogo Espacial em Javascript | HTML, CSS, JS, VITE | [GitHub](https://github.com/moisesdreckmann/jogoNave) |
+| Jogo de guerra de naves desenvolvido em Javascript | HTML, CSS, JS, VITE | [GitHub](https://github.com/moisesdreckmann/jogoNave) |
 | Mini-Jogos desenvolvidos em JS pelo IFOOD TECH | HTML, CSS, JS, VITE | [GitHub](https://moisesdreckmann.github.io/jogosDio/) |
 | E-commerce Réplica das Lojas Americanas com PHP | PHP, JS, JSON, AJAX, HTML, CSS, GoogleAPI | [GitHub](https://github.com/moisesdreckmann/Americanas) |
 | Collection de Animations | JS, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/animationsCollection/tree/main) |
