@@ -37,11 +37,11 @@ of my specialties:
 | Project | Technologies | Link |
 | ------- | ------------ | ---- |
 | Jogo de guerra de naves desenvolvido em Javascript | HTML, CSS, JS, VITE | [GitHub](https://github.com/moisesdreckmann/jogoNave) |
-| Collection de Animations | JS, HTML, CSS, React, Vite | [GitHub](https://github.com/moisesdreckmann/animationsCollection/tree/main) |
+| Pages Desenvolvidas em REACT/VITE/HTML/CSS | JavaScript, HTML, CSS, React, Vite | [GitHub](https://github.com/moisesdreckmann/css-tricks) |
 | Mini-Jogos desenvolvidos em JS pelo IFOOD TECH | HTML, CSS, JS, VITE | [GitHub](https://moisesdreckmann.github.io/jogosDio/) |
 | E-commerce Réplica das Lojas Americanas com PHP | PHP, JS, JSON, AJAX, HTML, CSS, GoogleAPI | [GitHub](https://github.com/moisesdreckmann/Americanas) |
-| Pages Desenvolvidas em HTML/CSS | JavaScript, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/css-tricks) |
 | Projeto de Loja com Estrutura de Dados | C, C++ | [GitHub](https://github.com/moisesdreckmann/projectCpp) |
 | Aulas de Java pela faculdade IFSUL + Desafios de SpringBoot Plataforma DIO/Cursos | Java, SpringBoot | [GitHub](https://github.com/moisesdreckmann/java) |
+| Collection de Animations | JS, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/animationsCollection/tree/main) |
 
 
