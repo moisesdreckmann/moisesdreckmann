@@ -26,14 +26,7 @@ of my specialties:
 ### Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mois%C3%A9s-dreckmann-245756219/)
 
-| Project | Technologies | Link |
-| ------- | ------------ | ---- |
-| Jogo de guerra de naves desenvolvido em Javascript | HTML, CSS, JS, VITE | [GitHub](https://github.com/moisesdreckmann/jogoNave) |
-| Pages Desenvolvidas em REACT/VITE/HTML/CSS | JavaScript, HTML, CSS, React, Vite | [GitHub](https://github.com/moisesdreckmann/css-tricks) |
-| Mini-Jogos desenvolvidos em JS pelo IFOOD TECH | HTML, CSS, JS, VITE | [GitHub](https://moisesdreckmann.github.io/jogosDio/) |
-| E-commerce Réplica das Lojas Americanas com PHP | PHP, JS, JSON, AJAX, HTML, CSS, GoogleAPI | [GitHub](https://github.com/moisesdreckmann/Americanas) |
-| Projeto de Loja com Estrutura de Dados | C, C++ | [GitHub](https://github.com/moisesdreckmann/projectCpp) |
-| Aulas de Java pela faculdade IFSUL + Desafios de SpringBoot Plataforma DIO/Cursos | Java, SpringBoot | [GitHub](https://github.com/moisesdreckmann/java) |
-| Collection de Animations | JS, HTML, CSS | [GitHub](https://github.com/moisesdreckmann/animationsCollection/tree/main) |
+### Portfolio   
 
+Portfio desenvolvido com react, fazendo uso de componentização e react routes: [Portfolio](https://moisesdreckmann.github.io/portfolio/)
 
