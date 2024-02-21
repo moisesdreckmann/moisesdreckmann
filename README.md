@@ -30,5 +30,5 @@ of my specialties:
 
 ### Portfolio   
 
-Portfolio desenvolvido com react, fazendo uso de componentização e react routes: [Portfolio](https://moisesdreckmann.github.io/portfolioo/)
+Portfolio desenvolvido com react, fazendo uso de componentização e react routes: [Portfolio](https://moisesdreckmann.github.io/portfolio/)
 
